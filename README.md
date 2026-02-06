@@ -21,4 +21,5 @@ The measured temperature is displayed on the LCD through I2C communication using
 If the temperature rises above 80°F, the ESP32 activates a buzzer connected to GPIO 18.
 
 ## Simulation Link
-PASTE YOUR WOKWI LINK HERE
+: https://wokwi.com/projects/455228349860454401<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/aaba22c7-36fb-4e65-ac17-a0b1f32c3c3e" />
+
